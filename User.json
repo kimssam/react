@@ -1,24 +1,28 @@
 [
 	{"id":555,
 	"name":"김 태리",
-	"age":24
+	"age":24,
+	"score":80
 	},
 	{"id":2,
 	"name":"김 희애",
 	"age":40,
 	"personalColor":"hotpink",
-	"hobbies": ["여행"]
+	"hobbies": ["여행"],
+	 "score":90
 	},
 	{"id":3,
 	"name":"한 가인",
 	"age":30,
 	"personalColor":"pink",
-	"hobbies": ["게임", "축구"]
+	"hobbies": ["게임", "축구"],
+	"score":100
 	},
 	{"id":4,
 	"name":"송 혜교",
 	"age":35,
 	"personalColor":"purple",
-	"hobbies": ["영화보기", "피아노치기"]
+	"hobbies": ["영화보기", "피아노치기"],
+	"score":95
 	}
 ]
